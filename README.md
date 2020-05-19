@@ -9,6 +9,7 @@ Natek-monsterdemo is a selenide based test automation platform for performing UI
 ##### Unit Test framework : TestNG version 6.14.3
 ##### Automation API : Selenide 5.11.1
 ##### Build tool: Maven
+##### Chrome browser: Latest version (83.0.4103.61)
 
 ### Prerequisite 1
 ##### java should be installed on the system.To check if java is available on the system, go to command prompt and type java -version.It should display: 
