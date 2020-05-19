@@ -47,7 +47,7 @@ If github is not configured on the system, then project can be downloaded using 
 
 #### Project Design Strategy
 #### The project is designed using Action based principles.
-1. demo package --> This package hass the tests to be executed.
+1. demo package --> This package has the tests to be executed.
 2. demo. actions --> This packages contains all the information about the actions performed on different pages / elements.
 3. demo.data and demo. ui --> These packages contains the data used for login and UI elements for interaction. 
 
