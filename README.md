@@ -1,7 +1,7 @@
-# Natek
-Natek Demo
+# monster demo
 
-Natek-monsterdemo is a selenide based test automation platform for performing UI 
+
+monsterdemo is a selenide based test automation platform for performing UI 
   based automation. 
 
 ### Tech stack used in building the framework 
@@ -36,10 +36,7 @@ If github is not configured on the system, then project can be downloaded using 
 
 
 ### Installation (without git)
-1. There is no additional settings or configurations required. The 
-   project can be downloaded using git or option "Download ZIP" from 
-   https://github.com/rohitbahadur/Natek.
-2. unzip (if downloaded as a ZIP) the project folder and open in eclipse 
+1. unzip (if downloaded as a ZIP) the project folder and open in eclipse 
     (File-->Open Projects from File System ). Select the directory where 
     the project folder is available.
 
